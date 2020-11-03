@@ -1,0 +1,24 @@
+{
+  "name": "js01",
+  "version": "1.0.1",
+  "description": "Fast and simple protocol buffers in Javascript!",
+  "main": "js01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/str1z/js01.git"
+  },
+  "keywords": [
+    "protocol-buffers",
+    "fast",
+    "simple"
+  ],
+  "author": "str1z",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/str1z/js01/issues"
+  },
+  "homepage": "https://github.com/str1z/js01#readme"
+}
