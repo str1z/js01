@@ -2,6 +2,16 @@
 
 Fast and simple protocol buffers in Javascript.
 
+## Intstallation
+
+### Node.js
+
+`npm i js01`
+
+### Browser
+
+`<script src="https://cdn.jsdelivr.net/npm/js01"></script>`
+
 ## Usage
 
 ```js
